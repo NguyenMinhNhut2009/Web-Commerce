@@ -102,10 +102,10 @@
 
 
 
-    // function base_url()
-    // {
-    //     return $url  = "http://localhost:9000/SPACETEAM.com/SPACETEAM.com/"; 
-    // }
+    function base_url()
+    {
+        return $url  = "http://localhost:9000/SPACETEAM.com/SPACETEAM.com/"; 
+    }
 
 
     function modules($url)
