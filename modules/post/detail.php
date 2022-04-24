@@ -84,7 +84,7 @@ if ($num_rows > 0) {
                         <div class="g-plusone" data-size="medium"></div>
                     </div>
                     <div class="fb-comments" id="fb-comment" data-href="" data-numposts="5"></div>
-                    <!-- <div class="fb-comments" data-href="http://localhost/SPACETEAM/" data-width="100%" data-numposts="5"></div> -->
+            
                 </div>
             </div>
         </div>

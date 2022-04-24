@@ -171,9 +171,9 @@ if ($num_rows > 0) {
                 </div>
             </div>
             <div id="like-fb" class="cleafix">
-                <iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Flocalhost%3A9000%2FSPACETEAM.com%2FSPACETEAM.com%2F%3Fpage%3Dhome&width=450&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId" width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                <!-- <iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Flocalhost%3A9000%2FSPACETEAM.com%2FSPACETEAM.com%2F%3Fpage%3Dhome&width=450&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId" width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe> -->
             </div>
-            <div class="fb-comments" data-href="http://localhost/SPACETEAM.com/SPACETEAM.com/?page=home" data-width="100%" data-numposts="5"></div>
+            <!-- <div class="fb-comments" data-href="http://localhost/SPACETEAM.com/SPACETEAM.com/?page=home" data-width="100%" data-numposts="5"></div> -->
             <div class="section" id="same-category-wp">
                 <div class="section-head">
                     <h3 class="section-title">Sản phẩm cùng loại</h3>
